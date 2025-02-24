@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site de Notícias Tecnológicas</title>
+</head>
+<body>
+    <header>
+        <h1>Tec Notícias</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Início</a></li>
+                <li><a href="#noticias">Notícias</a></li>
+                <li><a href="#sobre">Sobre</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="noticias">
+            <h2>Últimas Notícias</h2>
+
+            <article>
+                <h3>O Futuro da Inteligência Artificial</h3>
+                <p>A inteligência artificial está mudando rapidamente diversos setores, como saúde, educação, e transporte. Especialistas acreditam que a IA tem o potencial de revolucionar a forma como interagimos com a tecnologia.</p>
+                <a href="artigo1.html">Leia mais</a>
+            </article>
+
+            <article>
+                <h3>Tecnologia 5G: O que Esperar?</h3>
+                <p>A rede 5G promete revolucionar a conectividade móvel, trazendo velocidades incríveis e permitindo a comunicação em tempo real com dispositivos conectados.</p>
+                <a href="artigo2.html">Leia mais</a>
+            </article>
+
+            <article>
+                <h3>O Impacto da Computação Quântica</h3>
+                <p>A computação quântica pode resolver problemas que seriam impossíveis para computadores clássicos. Com isso, a ciência e a tecnologia devem dar saltos impressionantes.</p>
+                <a href="artigo3.html">Leia mais</a>
+            </article>
+        </section>
+    </main>
+
+    <aside>
+        <h3>Outras matérias em destaque</h3>
+        <ul>
+            <li><a href="artigo4.html">Novas Descobertas em Robótica</a></li>
+            <li><a href="artigo5.html">Blockchain: O que é e como funciona?</a></li>
+            <li><a href="artigo6.html">Inovações no Setor de Tecnologia Verde</a></li>
+        </ul>
+    </aside>
+
+    <section id="sobre">
+        <h2>Sobre o Site</h2>
+        <p>O "Notícias Tecnológicas" é um site dedicado a fornecer as últimas notícias e informações sobre os avanços tecnológicos. Nosso objetivo é manter nossos leitores informados sobre as inovações mais recentes no mundo da tecnologia, como inteligência artificial, computação quântica, 5G, e muito mais.</p>
+        <p>Com uma equipe de especialistas e jornalistas apaixonados por tecnologia, buscamos oferecer conteúdo relevante e acessível para todos os públicos, desde iniciantes até profissionais da área.</p>
+    </section>
+
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Para dúvidas, sugestões ou mais informações, entre em contato conosco através do e-mail abaixo:</p>
+        <p>Email: <a href="mailto:tecnoticias@gmail.com">tecnoticias@gmail.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Notícias Tecnológicas | Todos os direitos reservados.</p>
+        <p>Design por <a href="https://www.tecnoticias.com.br" target="_blank">Luis e Duda</a></p>
+    </footer>
+</body>
+</html>
