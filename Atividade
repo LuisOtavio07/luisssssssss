@@ -60,12 +60,12 @@
     <section id="contato">
         <h2>Contato</h2>
         <p>Para dúvidas, sugestões ou mais informações, entre em contato conosco através do e-mail abaixo:</p>
-        <p>Email: <a href="mailto:contato@noticias-tecnologicas.com">contato@noticias-tecnologicas.com</a></p>
+        <p>Email: <a href="mailto:tecnoticias@gmail.com">tecnoticias@gmail.com</a></p>
     </section>
 
     <footer>
         <p>&copy; 2025 Notícias Tecnológicas | Todos os direitos reservados.</p>
-        <p>Design por <a href="https://www.example.com" target="_blank">Seu Nome</a></p>
+        <p>Design por <a href="https://www.tecnoticias.com" target="_blank">Luis e Duda</a></p>
     </footer>
 </body>
 </html>
